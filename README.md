@@ -1,2 +1,2 @@
 ﻿# JSC270-NLP using TwitterAPI
-# Final Project in JSC270
+This include Two Projects: NLP using TwitterAPI and Data Processing
